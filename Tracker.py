@@ -21,7 +21,7 @@ print("https://github.com/SenoxCode\n\n\n")
 time.sleep(0.3)
 
 
-cap = pyshark.LiveCapture(internet, bpf_filter="udp")
+cap = pyshark.LiveCapture(interface, bpf_filter="udp")
 iplist = []
 for packet in cap.sniff_continuously():
     if 'IP' in packet:
