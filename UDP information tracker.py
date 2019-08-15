@@ -7,7 +7,7 @@ import pyperclip
 ### WRITTEN BY https://github.com/SenoxCode ###
 ### YOU'RE NOT ALLOWED TO CHANGE THIS CODE AND PUBLISH IT ###
 
-internet = "Ethernet" ##### CHANGE THIS STRING TO YOUR INTERNET INTERFACE #####
+interface = "INTERFACE" ##### CHANGE THIS STRING TO YOUR INTERNET INTERFACE #####
 
 pythonname = "UDP INFORMATION TRACKER"
 version = 1.0
