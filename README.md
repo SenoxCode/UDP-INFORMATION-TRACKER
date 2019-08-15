@@ -1,6 +1,8 @@
 # UDP-INFORMATION-TRACKER
 With this Python script you can track UDP informations. You can use it in many ways, but the main reason I wrote this script is to troll some people in Skype or Chatroulette e.g.
 
+https://www.youtube.com/watch?v=jYYXH2OgJo4 (Tutorial as video)
+
 Installation WINDOWS
 1. Download the ZIP-file (https://github.com/SenoxCode/UDP-INFORMATION-TRACKER/archive/master.zip)
 2. Open the ZIP and put the folder on your desktop
