@@ -9,7 +9,7 @@ Installation WINDOWS
 3. Open the folder
 4. Open the "install.bat" (ONLY BY THE FIRST RUN)
 5. Edit the "Tracker.py" with an editor (You can use a simple notepad)
-6. Change the Value in line 10 to your internet interface (Watch the video above if you don't know how)
+6. Change the Value in line 10 to your internet interface [You can use Wireshark for that or type "netsh interface show interface" into CMD. (Watch the video above if you don't know how)
 ```
 
 How to use it on CHATROULETTE/SKYPE (You need to install it first)
